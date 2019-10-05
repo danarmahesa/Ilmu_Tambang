@@ -1,0 +1,38 @@
+{
+  "name": "Ilmu Tambang",
+  "short_name": "IlmuTambang",
+  "start_url": "https://www.ilmutambang.com",
+  "display": "standalone",
+  "background_color": "#800000",
+  "theme_color": "#800000",
+  "description": "Media Informasi Seputar Ilmu Pengetahuan Teknik Pertambangan",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-5kB1Umb_Nn4/XZhMev_eF-I/AAAAAAAAARc/y4bdpHF5_Kk6FJQNOD9pVJM2H-q-qUOagCLcBGAsYHQ/s48/Ilmu%2BTambang.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-5kB1Umb_Nn4/XZhMev_eF-I/AAAAAAAAARc/y4bdpHF5_Kk6FJQNOD9pVJM2H-q-qUOagCLcBGAsYHQ/s72/Ilmu%2BTambang.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-5kB1Umb_Nn4/XZhMev_eF-I/AAAAAAAAARc/y4bdpHF5_Kk6FJQNOD9pVJM2H-q-qUOagCLcBGAsYHQ/s96/Ilmu%2BTambang.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-5kB1Umb_Nn4/XZhMev_eF-I/AAAAAAAAARc/y4bdpHF5_Kk6FJQNOD9pVJM2H-q-qUOagCLcBGAsYHQ/s144/Ilmu%2BTambang.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-5kB1Umb_Nn4/XZhMev_eF-I/AAAAAAAAARc/y4bdpHF5_Kk6FJQNOD9pVJM2H-q-qUOagCLcBGAsYHQ/s168/Ilmu%2BTambang.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-5kB1Umb_Nn4/XZhMev_eF-I/AAAAAAAAARc/y4bdpHF5_Kk6FJQNOD9pVJM2H-q-qUOagCLcBGAsYHQ/s192/Ilmu%2BTambang.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-5kB1Umb_Nn4/XZhMev_eF-I/AAAAAAAAARc/y4bdpHF5_Kk6FJQNOD9pVJM2H-q-qUOagCLcBGAsYHQ/s512/Ilmu%2BTambang.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
